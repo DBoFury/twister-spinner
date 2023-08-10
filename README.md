@@ -6,7 +6,7 @@ Twister Spinner is a simple app designed to assist you in using a twister spinne
 
 To use the Twister Spinner app, follow these steps:
 
-1. Navigate to the following link: [Twister Spinner Here](https://dbofury.github.io/twister-spinner/).
+1. Navigate to the following link: [Twister Spinner Here](https://olacdy.github.io/twister-spinner/).
 2. Click on the spinner square to initiate the spinning action.
 
 Feel free to give it a try and enjoy your game of Twister!
